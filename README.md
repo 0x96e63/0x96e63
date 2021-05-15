@@ -6,7 +6,7 @@ Hey their 👋, My name is vSync.
 - Currently trying to learn C++, Lua,Javascript and C.
 - Backend Dev
 
--My role **online** is '**Cyber-Secuirity**' And '**Penetration Testing Ambassador**' 
+-My role **online** is '**Cyber-Security**' And '**Penetration Testing Ambassador**' 
 - Any activity i commit on this Profile are either from an **Project** that i've stopped working on
 - or Projects i've Updated.
 
