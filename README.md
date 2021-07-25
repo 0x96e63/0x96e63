@@ -9,4 +9,5 @@ Hey their 👋, My name is vSync.
 -My role **online** is '**Cyber-Security**' And '**Penetration Testing Ambassador**' 
 - Any activity i commit on this Profile are either from an **Project** that i've stopped working on or Projects i've Updated.
 - This account is not involved in any malicious Activity or Hacking.
+- Discrd : vSync#1337 if not ; vSync#9999
 - Welcome.
