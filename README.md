@@ -5,11 +5,11 @@ class Github:
     def Welcome():
         while (True):
             xvSync = {
-            'Name' : 'vSync',
-            'Lives in' : 'Algeria',
-            'Works for' : 'Skrillec Development Team',
-            'Languages' : 'PY',
-            'Learning' : 'C', 'V',
+                'Name' : 'vSync',
+                'Lives in' : 'Algeria',
+                'Works for' : 'Skrillec Development Team',
+                'Languages' : 'PY',
+                'Learning' : 'C', 'V',
             }
             WhoAmi = json.dumps(xvSync)
             return WhoAmi
