@@ -3,15 +3,14 @@ import json
 
 class Github:
     def __init__(self):
-        while (True):
-            xvSync = {
-                'Name' : 'vSync',
-                'Lives in' : 'Algeria',
-                'Works for' : 'Skrillec Development Team',
-                'Languages' : 'PY',
-                'Learning' : 'C', 'V',
-            }
-            WhoAmi = json.dumps(xvSync)
+        xvSync = {
+            'Name' : 'vSync',
+            'Lives in' : 'Algeria',
+            'Works for' : 'Skrillec Development Team',
+            'Languages' : 'PY',
+            'Learning' : 'C', 'V',
+        }
+        WhoAmi = json.dumps(xvSync)
 ```
 Welcome to my github.
 
