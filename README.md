@@ -3,7 +3,8 @@ import json
 
 class Github:
     def Welcome():
-        while (True):
+        Authorize = True
+        if Authorize:
             xvSync = {
                 'Name' : 'vSync',
                 'Lives in' : 'Algeria',
