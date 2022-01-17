@@ -4,15 +4,15 @@ import json
 class Github:
     def Welcome():
         while (True):
-        xvSync = {
+            xvSync = {
             'Name' : 'vSync',
             'Lives in' : 'Algeria',
             'Works for' : 'Skrillec Development Team',
             'Languages' : 'PY',
             'Learning' : 'C', 'V',
-        }
-        WhoAmi = json.dumps(xvSync)
-        return WhoAmi
+            }
+            WhoAmi = json.dumps(xvSync)
+            return WhoAmi
 
 if __name__ == '__main__':
     print(Github.Welcome())
