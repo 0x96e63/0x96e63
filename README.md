@@ -8,7 +8,7 @@ class Github:
             'Lives in' : 'Algeria',
             'Works for' : 'Skrillec Development Team',
             'Languages' : 'PY',
-            'Learning' : 'C', 'V',
+            'Learning' : 'C', 'V'
         }
         WhoAmi = json.dumps(xvSync)
 ```
