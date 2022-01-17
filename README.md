@@ -2,9 +2,8 @@
 import json
 
 class Github:
-    def Welcome():
-        Authorize = True
-        if Authorize:
+    def __init__(self):
+        while (True):
             xvSync = {
                 'Name' : 'vSync',
                 'Lives in' : 'Algeria',
@@ -13,10 +12,6 @@ class Github:
                 'Learning' : 'C', 'V',
             }
             WhoAmi = json.dumps(xvSync)
-            return WhoAmi
-
-if __name__ == '__main__':
-    print(Github.Welcome())
 ```
 Welcome to my github.
 
