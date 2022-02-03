@@ -10,7 +10,7 @@ class Github:
             'Languages' : 'PY',
             'Learning' : 'C', 'V'
         }
-        WhoAmi = json.dumps(xvSync)
+        self.WhoAmi = json.dumps(xvSync)
 ```
 Welcome to my github.
 
