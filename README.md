@@ -6,8 +6,7 @@ class Github:
         xvSync = {
             'Name' : 'vSync',
             'Lives in' : 'Algeria',
-            'Works for' : 'Skrillec Development Team',
-            'Languages' : 'PY',
+            'Languages' : 'Python',
             'Learning' : None
         }
         self.WhoAmi = json.dumps(xvSync)
