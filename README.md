@@ -3,13 +3,12 @@ import json
 
 class Github:
     def __init__(self):
-        xvSync = {
+        self.whoami = json.dumps({
             'Name' : 'vSync',
             'Lives in' : 'Algeria',
             'Languages' : 'Python',
             'Learning' : None
-        }
-        self.WhoAmi = json.dumps(xvSync)
+        })
 ```
 Welcome to my github.
 
