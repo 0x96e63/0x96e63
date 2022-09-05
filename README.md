@@ -4,9 +4,9 @@ import json
 class Github(Content):
     def __init__(self):
         self.whoami = json.dumps({
-            'Name' : ['vSync', '0xvSync']
-            'Lives in' : ['Algeria', 'United States', 'Romania', 'Morocco', 'Switzerland']
-            'Languages' : ['English', 'Python']
+            'Name' : ['vSync', '0xvSync'],
+            'Lives in' : ['Algeria', 'United States', 'Romania', 'Morocco', 'Switzerland'],
+            'Languages' : ['English', 'Python'],
             'Learning' : None
         })
 ```
