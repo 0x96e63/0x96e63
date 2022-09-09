@@ -1,7 +1,7 @@
 ```python
 import json
 
-class Github(Content):
+class Github(Portfolio):
     def __init__(self):
         self.whoami = json.dumps({
             'Name' : ['vSync', '0xvSync'],
