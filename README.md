@@ -10,7 +10,6 @@ class Github(Portfolio):
             'Learning' : None
         })
 ```
-Welcome to my github.
 
 #
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xvSync&show_icons=true&hide_border=true" />
