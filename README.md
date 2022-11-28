@@ -7,7 +7,7 @@ class Github(Portfolio):
             'Name' : ['vSync', '0xvSync'],
             'Lives in' : ['Algeria', 'United States', 'Romania', 'Morocco', 'Switzerland'],
             'Languages' : ['English', 'Python'],
-            'Learning' : None
+            'Learning' : null
         })
 ```
 
