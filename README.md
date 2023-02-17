@@ -2,13 +2,8 @@
 import json
 
 class Github(Portfolio):
-    def __init__(self):
-        self.whoami = json.dumps({
-            'Name' : ['vSync', '0xvSync'],
-            'Lives in' : ['Algeria', 'United States', 'Romania', 'Morocco', 'Switzerland'],
-            'Languages' : ['English', 'Python'],
-            'Learning' : null
-        })
+    def __init__(self) -> None:
+        Portfolio.__init__(self, None)
 ```
 
 #
