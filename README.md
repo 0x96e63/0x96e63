@@ -1,4 +1,6 @@
 ```python
+from githublib import Portfolio
+
 class Github(Portfolio):
     def __init__(self) -> None:
         Portfolio.__init__(self, None)
