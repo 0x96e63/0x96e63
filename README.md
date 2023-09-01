@@ -3,7 +3,7 @@ from githublib import Portfolio
 
 class Github(Portfolio):
     def __init__(self) -> None:
-       super.__init__(self, username='0x96e63')
+       super().__init__(self, username='0x96e63')
 ```
 
 #
